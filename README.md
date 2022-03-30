@@ -1,6 +1,6 @@
 
 <h3 align="center">
-Hi there, I'm SWaraj Gadgul</a> 👋
+Hi there, I'm Swaraj Gadgul</a> 👋
 </h3>
 
 <h2 align="center">
@@ -46,8 +46,8 @@ Hi there, I'm SWaraj Gadgul</a> 👋
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/swarajgadgul)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=swarajgadgul)](https://github.com/swarajgadgul)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/swarajgadgul)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swarajgadgul&layout=compact)](https://github.com/swarajgadgul)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://github.com/swarajgadgul)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=swarajgadgul.swarajgadgul)](https://github.com/swarajgadgul)
