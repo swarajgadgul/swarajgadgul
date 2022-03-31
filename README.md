@@ -48,6 +48,5 @@ Hi there, I'm Swaraj Gadgul</a> 👋
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=swarajgadgul)](https://github.com/swarajgadgul)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swarajgadgul&layout=compact)](https://github.com/swarajgadgul)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=swarajgadgul.swarajgadgul)](https://github.com/swarajgadgul)
